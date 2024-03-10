@@ -8,6 +8,8 @@ Este é um aplicativo simples de tickets de suporte desenvolvido em React.js.
 - Visualização de tickets existentes
 - Atualização do status dos tickets
 - Exclusão de tickets
+- Cadastros de clientes
+- Visualização e atualização de perfil
 
 ## Pré-requisitos
 <p>• <a href="https://nodejs.org/en">Node.js</a> instalado</p>
